@@ -1,5 +1,4 @@
 Student Details
-
 Name: Anubhav Tripathi
 Institute: IILM University, Greater Noida
 Branch: B.Tech, Computer Science and Engineering
@@ -26,6 +25,3 @@ Features:
 Add a new item with name, description, and price
 View all items listed by other students
 Data saved permanently in a MySQL database
-Author
-
-Anubhav Tripathi — B.Tech CSE, IILM University, Greater t Noida  im commit this  on github readme but it add without light change
