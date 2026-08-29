@@ -1,6 +1,3 @@
-# Campus Exchange
-
-A Java Full Stack web application that lets students on a campus list, browse, and exchange items — such as used books, notes, and gadgets — with each other.
 
 ## Student Details
 
